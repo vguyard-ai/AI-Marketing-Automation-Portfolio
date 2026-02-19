@@ -1,8 +1,8 @@
+import os
 import anthropic
 import pandas as pd
 
 # Setup client
-client = anthropic.Anthropic(api_key="import os
 client = anthropic.Anthropic(api_key=os.environ.get("ANTHROPIC_API_KEY"))
 
 # Charger les leads
