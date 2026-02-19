@@ -22,8 +22,8 @@ En transition vers l'**AI Marketing Automation** : agents IA, workflows intellig
 | # | Projet | Stack | Statut |
 |---|--------|-------|--------|
 | 01 | [🧠 Smart Lead Qualifier](#projet-1--smart-lead-qualifier) | HubSpot • Make.com • Claude API | ✅ Terminé |
-| 02 | 📧 Email Personalization Engine | Python • Claude API • HubSpot | 🔄 En cours |
-| 03 | 🎯 Multi-Channel Campaign Automator | Make.com • Claude API • HubSpot | ⏳ À venir |
+| 02 | 📧 Email Personalization Engine | Python • Claude API • HubSpot | ✅ Terminé |
+| 03 | 🎯 Multi-Channel Campaign Automator | Make.com • Claude API • HubSpot | ✅ Terminé |
 | 04 | 🤖 Chatbot CRM | LangChain • Claude API • HubSpot | ⏳ À venir |
 | 05 | 🔨 Email Agent | LangChain • SendGrid • HubSpot | ⏳ À venir |
 | 06 | 🧠 Marketing Knowledge Base (RAG) | LangChain • ChromaDB • Claude API | ⏳ À venir |
