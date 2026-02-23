@@ -55,5 +55,5 @@ En transition vers l'**AI Marketing Automation** : agents IA, workflows intellig
 ## 📫 Contact
 
 - **Email** : v.guyarddechalambert@gmail.com
-- **LinkedIn** : [https://www.linkedin.com/in/victor-guyard-de-chalambert-a64356195/]
+- **LinkedIn** : https://www.linkedin.com/in/victor-guyard-de-chalambert-a64356195/
 - **Disponibilité** : Mars 2026
