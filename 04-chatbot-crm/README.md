@@ -4,6 +4,37 @@
 Assistant conversationnel connecté à HubSpot via LangChain et Claude AI.
 Permet d'interroger ses contacts CRM en langage naturel avec mémoire conversationnelle.
 
+## 🎯 Problème Business
+
+Les équipes commerciales passent du temps à chercher manuellement des informations dans leur CRM :
+- Consultation fastidieuse des fiches contacts une par une
+- Impossible d'interroger ses données en langage naturel
+- Aucune vision rapide des leads prioritaires à traiter
+
+## ✅ Solution Implémentée
+
+Chatbot conversationnel qui se connecte directement à HubSpot et répond en langage naturel à toutes les questions sur les leads, avec mémoire de la conversation.
+
+## 📊 Impact Business
+
+- ✅ Accès instantané aux données CRM sans naviguer dans HubSpot
+- ✅ Analyse des leads prioritaires en quelques secondes
+- ✅ Mémoire conversationnelle — pas besoin de répéter le contexte
+- ✅ Interrogation multi-critères (score, catégorie, prochaine action)
+
+## ⚠️ Limites Identifiées
+
+- Données chargées au démarrage — pas de refresh en temps réel
+- Propriétés custom HubSpot nécessitent une configuration manuelle
+- Interface terminal uniquement — pas d'UI web
+
+## 🚀 Améliorations Futures
+
+- Interface Streamlit pour une UI web
+- Refresh automatique des données toutes les X minutes
+- Connexion aux deals et pipelines HubSpot
+- Export des réponses en PDF ou Google Sheets
+
 ## Démonstration
 
 ![Chatbot CRM en action](assets/demo.png)
