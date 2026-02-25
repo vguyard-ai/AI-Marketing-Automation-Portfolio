@@ -3,8 +3,8 @@ from langchain_core.messages import HumanMessage, AIMessage, SystemMessage
 import requests
 
 # ─── CONFIG ───────────────────────────────────────────────
-ANTHROPIC_API_KEY = "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"
-HUBSPOT_API_KEY = "pat-eu1-5426d5da-2208-4840-8d05-ff72edc4fd52"
+ANTHROPIC_API_KEY = "your-anthropic-api-key-here"
+HUBSPOT_API_KEY = "your-hubspot-api-key-here"
 
 # ─── INITIALISATION DU MODÈLE ─────────────────────────────
 # On utilise LangChain pour envelopper Claude
