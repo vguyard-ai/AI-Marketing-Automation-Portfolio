@@ -1,4 +1,4 @@
-# 🤖 Chatbot CRM — Projet #5
+# 🤖 Chatbot CRM — Projet #4
 
 ## Description
 Assistant conversationnel connecté à HubSpot via LangChain et Claude AI.
